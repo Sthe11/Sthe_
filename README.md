@@ -1,6 +1,6 @@
 # Sthe_
-Sawubona Mhlaba, this is my profile.
-# :shield: Welcome to Promise Ngcobo's GitHub Profile :computer:
+# Sawubona Mhlaba! (Hello World!)
+# Welcome to my GitHub Profile my name is Promise Ngcobo :computer:
 
 ![Cyberpunk GIF](https://media.tenor.com/images/582c78b8d25cf8cbf4d1e75e0a2b1e8c/tenor.gif)
 
